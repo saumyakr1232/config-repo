@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="" />
+    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/address-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/address-service.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GneoxLYAfCa9qh0YRAJ7rhPqCX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,6 +73,7 @@
       <workItem from="1667450879613" duration="27000" />
       <workItem from="1667450910851" duration="68000" />
       <workItem from="1667452881961" duration="50000" />
+      <workItem from="1667452940171" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="configured mongodb in user-service default props">
       <created>1667450525212</created>
@@ -75,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667450525212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1667452982779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667452982779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="configured mongodb in user-service default props" />
-    <option name="LAST_COMMIT_MESSAGE" value="configured mongodb in user-service default props" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
