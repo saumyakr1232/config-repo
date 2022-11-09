@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/address-service-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/address-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +44,6 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="config-repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="config-repo" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +57,8 @@
       <workItem from="1667450879613" duration="27000" />
       <workItem from="1667450910851" duration="68000" />
       <workItem from="1667452881961" duration="50000" />
-      <workItem from="1667452940171" duration="285000" />
+      <workItem from="1667452940171" duration="347000" />
+      <workItem from="1668001495976" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="configured mongodb in user-service default props">
       <created>1667450525212</created>
@@ -89,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667452982779</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated default config file for address-service and created address-service-dev.properties">
+      <created>1667453255082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667453255082</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="configured mongodb in user-service default props" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="updated default config file for address-service and created address-service-dev.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated default config file for address-service and created address-service-dev.properties" />
   </component>
 </project>
