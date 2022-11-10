@@ -59,6 +59,7 @@
       <workItem from="1667452881961" duration="50000" />
       <workItem from="1667452940171" duration="347000" />
       <workItem from="1668001495976" duration="14000" />
+      <workItem from="1668001810523" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="configured mongodb in user-service default props">
       <created>1667450525212</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667453255082</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed port of user-service-dev.properties">
+      <created>1668001854627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668001854627</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
     <MESSAGE value="configured mongodb in user-service default props" />
     <MESSAGE value="test" />
     <MESSAGE value="updated default config file for address-service and created address-service-dev.properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated default config file for address-service and created address-service-dev.properties" />
+    <MESSAGE value="fixed port of user-service-dev.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed port of user-service-dev.properties" />
   </component>
 </project>
