@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="" />
+    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +64,7 @@
       <workItem from="1668001495976" duration="14000" />
       <workItem from="1668001810523" duration="650000" />
       <workItem from="1668087484802" duration="183000" />
+      <workItem from="1668142859374" duration="1283000" />
     </task>
     <task id="LOCAL-00001" summary="configured mongodb in user-service default props">
       <created>1667450525212</created>
@@ -98,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668087659658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="match-data-dev auto-index-creation enabled">
+      <created>1668142989296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668142989296</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +131,7 @@
     <MESSAGE value="updated default config file for address-service and created address-service-dev.properties" />
     <MESSAGE value="fixed port of user-service-dev.properties" />
     <MESSAGE value="added properties for match service" />
-    <option name="LAST_COMMIT_MESSAGE" value="added properties for match service" />
+    <MESSAGE value="match-data-dev auto-index-creation enabled" />
+    <option name="LAST_COMMIT_MESSAGE" value="match-data-dev auto-index-creation enabled" />
   </component>
 </project>
