@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17da661e-1ffe-45f3-999c-234d923e7f93" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +63,7 @@
       <workItem from="1668001810523" duration="650000" />
       <workItem from="1668087484802" duration="183000" />
       <workItem from="1668142859374" duration="1283000" />
+      <workItem from="1668687188384" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="configured mongodb in user-service default props">
       <created>1667450525212</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668142989296</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed user service database name issue">
+      <created>1668687231345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668687231345</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +138,7 @@
     <MESSAGE value="fixed port of user-service-dev.properties" />
     <MESSAGE value="added properties for match service" />
     <MESSAGE value="match-data-dev auto-index-creation enabled" />
-    <option name="LAST_COMMIT_MESSAGE" value="match-data-dev auto-index-creation enabled" />
+    <MESSAGE value="fixed user service database name issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed user service database name issue" />
   </component>
 </project>
